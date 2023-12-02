@@ -1,0 +1,14 @@
+
+At present Multilingual Hate Speech Detection using Transformers focuses on binary classification. We present NoahBERT (No Hate BERT) trained on MLMA multi-class/multi-domain English dataset and m-NoahBERT (multilingual NoahBERT) trained on translated MLMA using GoogleTranslate API.
+
+Offensive vs Fearful vs Abusive vs Hateful
+
+1. Preprocess the Dataset and get the required columns: decide what features and classes we want
+
+2. Determining values of evaluation metrics (F1, P, R) on BERT-base (this means training te last layer of BERT to get the values)
+
+3. Developing/designing NoahBERT (adding another FF layer to BERT and training it), and get the evaluation metrics 
+
+4. Multilinguality: train and test on mBERT-base (Google), and develop/design m-NoahBERT
+
+5. Test for Robustness (what happens when data/labels are noisy, adultering the Test Data but keeping the Train and Val data clean)
