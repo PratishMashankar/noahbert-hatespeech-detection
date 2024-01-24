@@ -33,6 +33,10 @@ We combined data from the MLMA English Hate Speech dataset and Davidson et al's 
 - **data/labeled_data.csv**: Data by Davidson et al from [GitHub](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master).
 - **video_link.txt**: Link to the project's YouTube video.
 
+## Declaration
+Project submitted towards the partial procurement of credits for CS747 Deep Learning at GMU under Professor Daniel Barbara.
+
+
 For a detailed understanding of the project, please refer to the [report](Report-FinalProject-CS747DL-Pratish_Sreeja-G01354094_G01360679.pdf).
 
 ## Video Presentation
