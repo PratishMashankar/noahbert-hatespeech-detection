@@ -41,4 +41,4 @@ For a detailed understanding of the project, please refer to the [report](Report
 
 ## Video Presentation
 
-[Watch the project video](video_link.txt).
+[Watch the project video](https://youtu.be/grzI3VPdG7M).
