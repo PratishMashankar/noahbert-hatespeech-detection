@@ -1,0 +1,13 @@
+                                      CS747 Final Project
+                                     ----------------------
+Objective : Multi-Class Hate Speech Classification using NoahBERT 
+
+
+Name:               Pratish Mashankar (G01354094) 
+                    Sreeja Puthumana (G01360679 )
+
+
+Video link: https://youtu.be/grzI3VPdG7M
+
+
+
