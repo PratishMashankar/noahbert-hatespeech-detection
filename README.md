@@ -2,11 +2,7 @@
 
 ## Abstract
 
-In this project, we tackle the challenge of hate speech detection, specifically focusing on differentiating between hate speech, offensive language, and neutral content. We employ two models for comparison: the BERT NLP model, developed by Google in 2018, and our modified model, NoahBERT, designed for enhanced multi-speech classification.
-
-Both models exhibit challenges in sensitivity to specific terms and difficulties in accurately interpreting the context of statements. However, our NoahBERT demonstrates a better grasp of distinguishing between offensive and hateful language in some instances. It shows potential improvement in differentiating between these two classes compared to BERT.
-
-The implementation notebook is optimized for execution on Google Colab Pro with V100 High RAM.
+In this project, we address the challenge of hate speech detection, specifically focusing on the differentiation between hate speech, offensive language, and neutral content, an underexplored area in existing research. Distinguishing between hate speech and offensive language is vital for online platforms to effectively filter harmful content, safeguard users, and foster a more respectful online community. Combining datasets from Ousidhoum et al. and Davidson et al., we curated a comprehensive dataset with 4000 offensive, 3000 neutral, and 2000 hate speech instances. Fine-tuning BERT resulted in a baseline accuracy of 74.9%. In response, we introduced NoahBERT, a modified model incorporating an additional layer and dropout, achieving an enhanced accuracy of 78.9%. Our work contributes to the critical task of improving online toxicity detection and fostering a safer digital environment.
 
 ## Platform and Version
 
