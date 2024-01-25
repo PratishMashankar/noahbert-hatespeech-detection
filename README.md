@@ -27,10 +27,11 @@ We combined data from the MLMA English Hate Speech dataset and Davidson et al's 
 - **Implementation_Notebook_CS747_FinalProject_NoahBERT.ipynb**: Complete code implementation.
 - **Plan.txt**: Ideation and project plan.
 - **Report-FinalProject-CS747DL-Pratish_Sreeja-G01354094_G01360679.pdf**: Final report submitted to CS747 Deep Learning at GMU.
-- **data/en_dataset.csv**: Dataset from MLMA Hate Speech Detection by Ousidhoum et al.
-- **data/en_dataset_with_stop_words.csv**: Same dataset as above, but with stopwords included.
-- **data/final_data.csv**: Our generated final dataset.
-- **data/labeled_data.csv**: Data by Davidson et al from [GitHub](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master).
+- **data/**
+  - **en_dataset.csv**: Dataset from MLMA Hate Speech Detection by Ousidhoum et al.
+  - **en_dataset_with_stop_words.csv**: Same dataset as above, but with stopwords included.
+  - **final_data.csv**: Our generated final dataset.
+  - **labeled_data.csv**: Data by Davidson et al from [GitHub](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master).
 - **video_link.txt**: Link to the project's YouTube video.
 
 ## Declaration
